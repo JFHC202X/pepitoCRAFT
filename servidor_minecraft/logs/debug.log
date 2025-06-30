@@ -9392,3 +9392,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [30Jun2025 22:56:51.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 22:57:57.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpepito2.0 lost connection: Disconnected
 [30Jun2025 22:57:57.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 left the game
+[30Jun2025 23:01:51.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 23:01:51.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 23:06:51.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 23:06:51.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
