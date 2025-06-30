@@ -131,6 +131,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-29 18:18:50 +0000",
+      "minecraft:river": "2025-06-30 22:50:32 +0000",
+      "minecraft:flower_forest": "2025-06-30 22:47:06 +0000",
       "minecraft:savanna": "2025-06-29 18:18:55 +0000",
       "minecraft:plains": "2025-06-29 18:16:57 +0000"
     },
@@ -341,6 +343,24 @@
       "mine_toretoise": "2025-06-29 19:05:53 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-06-30 22:48:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2025-06-30 22:54:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "orchard": "2025-06-30 22:54:39 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
